@@ -1,0 +1,27 @@
+.head{
+    height: 70px;
+    background-color: #ffffff;
+    color: rgb(3, 199, 107);
+    background-attachment: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+     }
+
+.footer{
+   text-align: center;
+   color: aliceblue;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+  
+   background-color: rgb(46, 46, 46);
+    }
+.footer p{
+    margin-bottom: unset;    
+        }
+
+.link{
+        color: #ffffff;font-size: 24px;
+        padding: 0px 5px;
+      }
